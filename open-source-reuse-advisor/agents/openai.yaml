@@ -1,0 +1,4 @@
+interface:
+  display_name: "开源复用顾问"
+  short_description: "检索相似开源项目并判断复用、二开或重写"
+  default_prompt: "Use $open-source-reuse-advisor to search GitHub and package registries for existing open-source projects similar to my feature idea, then compare differences and recommend reuse, fork, or building from scratch."
